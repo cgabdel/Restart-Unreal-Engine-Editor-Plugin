@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Restart.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Ares\Documents\Unreal Projects\UE5TEST\Intermediate\Build\Win64\UE5TESTEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"C:\Users\Ares\Documents\Unreal Projects\UE5TEST\Plugins\Restart\Intermediate\Build\Win64\UnrealEditor\Development\Restart\Module.Restart.cpp.obj"
+"C:\Users\Ares\Documents\Unreal Projects\UE5TEST\Plugins\Restart\Intermediate\Build\Win64\UnrealEditor\Development\Restart\Default.rc2.res"
+/OUT:"C:\Users\Ares\Documents\Unreal Projects\UE5TEST\Plugins\Restart\Intermediate\Build\Win64\UnrealEditor\Development\Restart\UnrealEditor-Restart.lib"
+/INCLUDE:IMPLEMENT_MODULE_Restart

@@ -1,0 +1,29 @@
+C:\Users\Ares\Documents\Unreal Projects\UE5TEST\Plugins\Restart\Intermediate\Build\Win64\UnrealEditor\Development\Restart\Definitions.Restart.h
+C:/Users/Ares/Documents/Unreal Projects/UE5TEST/Plugins/Restart/Source/Restart/Private/Restart.cpp
+C:\Users\Ares\Documents\Unreal Projects\UE5TEST\Plugins\Restart\Source\Restart\Public\Restart.h
+C:\Users\Ares\Documents\Unreal Projects\UE5TEST\Plugins\Restart\Source\Restart\Public\RestartStyle.h
+D:\_Unreal\Engine\UE_5.0EA\Engine\Source\Runtime\SlateCore\Public\Styling/SlateStyle.h
+D:\_Unreal\Engine\UE_5.0EA\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBorderBrush.h
+D:\_Unreal\Engine\UE_5.0EA\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBoxBrush.h
+D:\_Unreal\Engine\UE_5.0EA\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateColorBrush.h
+D:\_Unreal\Engine\UE_5.0EA\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateRoundedBoxBrush.h
+D:\_Unreal\Engine\UE_5.0EA\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateImageBrush.h
+C:\Users\Ares\Documents\Unreal Projects\UE5TEST\Plugins\Restart\Source\Restart\Public\RestartCommands.h
+D:\_Unreal\Engine\UE_5.0EA\Engine\Source\Editor\MainFrame\Public\Interfaces/IMainFrameModule.h
+D:\_Unreal\Engine\UE_5.0EA\Engine\Source\Editor\LevelEditor\Public\LevelEditor.h
+D:\_Unreal\Engine\UE_5.0EA\Engine\Source\Editor\LevelEditor\Public\ILevelEditor.h
+D:\_Unreal\Engine\UE_5.0EA\Engine\Source\Runtime\Engine\Public\Elements/Framework/EngineElementsLibrary.h
+D:\_Unreal\Engine\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\EngineElementsLibrary.generated.h
+D:\_Unreal\Engine\UE_5.0EA\Engine\Source\Editor\LevelEditor\Public\ViewportTypeDefinition.h
+C:/Users/Ares/Documents/Unreal Projects/UE5TEST/Plugins/Restart/Source/Restart/Private/RestartCommands.cpp
+C:/Users/Ares/Documents/Unreal Projects/UE5TEST/Plugins/Restart/Source/Restart/Private/RestartStyle.cpp
+D:\_Unreal\Engine\UE_5.0EA\Engine\Source\Runtime\SlateCore\Public\Styling/SlateStyleRegistry.h
+D:\_Unreal\Engine\UE_5.0EA\Engine\Source\Runtime\Engine\Public\Slate/SlateGameResources.h
+D:\_Unreal\Engine\UE_5.0EA\Engine\Source\Runtime\Projects\Public\Interfaces/IPluginManager.h
+D:\_Unreal\Engine\UE_5.0EA\Engine\Source\Runtime\Projects\Public\PluginDescriptor.h
+D:\_Unreal\Engine\UE_5.0EA\Engine\Source\Runtime\Projects\Public\ModuleDescriptor.h
+D:\_Unreal\Engine\UE_5.0EA\Engine\Source\Runtime\Json\Public\Serialization/JsonWriter.h
+D:\_Unreal\Engine\UE_5.0EA\Engine\Source\Runtime\Json\Public\Serialization/JsonTypes.h
+D:\_Unreal\Engine\UE_5.0EA\Engine\Source\Runtime\Projects\Public\CustomBuildSteps.h
+D:\_Unreal\Engine\UE_5.0EA\Engine\Source\Runtime\Projects\Public\LocalizationDescriptor.h
+D:\_Unreal\Engine\UE_5.0EA\Engine\Source\Runtime\Projects\Public\PluginReferenceDescriptor.h

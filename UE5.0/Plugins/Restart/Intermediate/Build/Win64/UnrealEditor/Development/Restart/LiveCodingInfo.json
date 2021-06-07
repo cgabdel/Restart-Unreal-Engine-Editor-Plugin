@@ -1,0 +1,10 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.Restart.cpp.obj": [
+			"Restart.cpp.obj",
+			"RestartCommands.cpp.obj",
+			"RestartStyle.cpp.obj"
+		]
+	}
+}
