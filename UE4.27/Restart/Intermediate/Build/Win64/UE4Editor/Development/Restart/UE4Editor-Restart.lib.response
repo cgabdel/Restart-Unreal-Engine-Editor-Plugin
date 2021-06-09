@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Restart.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\_Unreal\Projects\ALSReplicated-4.3.9\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"D:\_Unreal\Projects\ALSReplicated-4.3.9\Plugins\Restart\Intermediate\Build\Win64\UE4Editor\Development\Restart\Module.Restart.cpp.obj"
+"D:\_Unreal\Projects\ALSReplicated-4.3.9\Plugins\Restart\Intermediate\Build\Win64\UE4Editor\Development\Restart\Default.rc2.res"
+/OUT:"D:\_Unreal\Projects\ALSReplicated-4.3.9\Plugins\Restart\Intermediate\Build\Win64\UE4Editor\Development\Restart\UE4Editor-Restart.lib"

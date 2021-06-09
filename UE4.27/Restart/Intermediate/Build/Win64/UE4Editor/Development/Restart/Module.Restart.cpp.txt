@@ -1,0 +1,26 @@
+D:\_Unreal\Projects\ALSReplicated-4.3.9\Plugins\Restart\Intermediate\Build\Win64\UE4Editor\Development\Restart\Definitions.Restart.h
+D:/_Unreal/Projects/ALSReplicated-4.3.9/Plugins/Restart/Source/Restart/Private/Restart.cpp
+D:\_Unreal\Projects\ALSReplicated-4.3.9\Plugins\Restart\Source\Restart\Public\Restart.h
+D:\_Unreal\Projects\ALSReplicated-4.3.9\Plugins\Restart\Source\Restart\Public\RestartStyle.h
+C:\Program Files (x86)\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Styling/SlateStyle.h
+C:\Program Files (x86)\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBorderBrush.h
+C:\Program Files (x86)\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBoxBrush.h
+C:\Program Files (x86)\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateColorBrush.h
+C:\Program Files (x86)\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateImageBrush.h
+D:\_Unreal\Projects\ALSReplicated-4.3.9\Plugins\Restart\Source\Restart\Public\RestartCommands.h
+C:\Program Files (x86)\Epic Games\UE_4.27\Engine\Source\Editor\MainFrame\Public\Interfaces/IMainFrameModule.h
+C:\Program Files (x86)\Epic Games\UE_4.27\Engine\Source\Editor\LevelEditor\Public\LevelEditor.h
+C:\Program Files (x86)\Epic Games\UE_4.27\Engine\Source\Editor\LevelEditor\Public\ILevelEditor.h
+C:\Program Files (x86)\Epic Games\UE_4.27\Engine\Source\Editor\LevelEditor\Public\ViewportTypeDefinition.h
+D:/_Unreal/Projects/ALSReplicated-4.3.9/Plugins/Restart/Source/Restart/Private/RestartCommands.cpp
+D:/_Unreal/Projects/ALSReplicated-4.3.9/Plugins/Restart/Source/Restart/Private/RestartStyle.cpp
+C:\Program Files (x86)\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Styling/SlateStyleRegistry.h
+C:\Program Files (x86)\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\Slate/SlateGameResources.h
+C:\Program Files (x86)\Epic Games\UE_4.27\Engine\Source\Runtime\Projects\Public\Interfaces/IPluginManager.h
+C:\Program Files (x86)\Epic Games\UE_4.27\Engine\Source\Runtime\Projects\Public\PluginDescriptor.h
+C:\Program Files (x86)\Epic Games\UE_4.27\Engine\Source\Runtime\Projects\Public\ModuleDescriptor.h
+C:\Program Files (x86)\Epic Games\UE_4.27\Engine\Source\Runtime\Json\Public\Serialization/JsonWriter.h
+C:\Program Files (x86)\Epic Games\UE_4.27\Engine\Source\Runtime\Json\Public\Serialization/JsonTypes.h
+C:\Program Files (x86)\Epic Games\UE_4.27\Engine\Source\Runtime\Projects\Public\CustomBuildSteps.h
+C:\Program Files (x86)\Epic Games\UE_4.27\Engine\Source\Runtime\Projects\Public\LocalizationDescriptor.h
+C:\Program Files (x86)\Epic Games\UE_4.27\Engine\Source\Runtime\Projects\Public\PluginReferenceDescriptor.h
